@@ -1,0 +1,7 @@
+spriteTypes = {	
+    				
+	spriteType = {
+		name = "GFX_start_date_2000"
+		texturefile = "gfx/interface/start_date_2000.dds"
+	}
+}
